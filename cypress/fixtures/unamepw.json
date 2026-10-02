@@ -1,0 +1,19 @@
+{
+
+"benar" :{
+  "username": "standard_user",
+  "password": "secret_sauce"
+},
+
+"Salah" :{
+  "username": "practice",
+  "password": "SuperSecretPassword!"
+},
+
+"kunci" :{
+  "username": "locked_out_user",
+  "password": "secret_sauce"
+}
+
+
+}
